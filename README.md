@@ -29,10 +29,10 @@ splunk-appinspect inspect dist/TA-tenable-vm-audit-<version>.tgz --mode precert 
 python3 tests/eval_test.py
 ```
 
-## Releases
+## Packages
 
-Each version is tagged `v<version>`. Its GitHub release has the exact package uploaded to
-Splunkbase attached, with its md5.
+`packages/` holds each version's package exactly as uploaded to Splunkbase, with `MD5SUMS`.
+Each version is also its own commit (`git log`).
 
 ## License
 
