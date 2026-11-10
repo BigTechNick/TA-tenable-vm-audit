@@ -1,0 +1,14 @@
+TA-tenable-vm-audit (Tenable Vulnerability Management audit log add-on for Splunk)
+Copyright 2026 Nikhil Chawla
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This add-on is an independent project. It is not affiliated with, endorsed by
+or supported by Tenable, Inc. Tenable, Tenable Vulnerability Management and
+Tenable.io are trademarks or registered trademarks of Tenable, Inc. Splunk is a
+trademark of Splunk LLC. Other names are the trademarks of their owners and are
+used here only to describe what the add-on works with.
+
+The mappings are written from the audit log events and Tenable's public API
+documentation. The add-on contains no code or configuration from Tenable or
+from other Splunk add-ons.

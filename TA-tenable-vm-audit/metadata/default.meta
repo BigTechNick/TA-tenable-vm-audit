@@ -1,0 +1,5 @@
+# Readable by everyone, changed by admins. Exported so the fields, event types and
+# tags apply when searching from any app, including Enterprise Security.
+[]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
